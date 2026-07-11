@@ -22,24 +22,52 @@
 
 <img src="./assets/header_skills.jpg" width="100%" alt="Tech Stack and Skills"/>
 
-### 🚀 Programming Languages & Mobile/Web Frameworks
+### 🎨 Front-End Development
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,dart,c,cpp,html,css,react,nextjs,nodejs,express,flutter" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Front-End Development" />
   </a>
 </div>
 
-### 💾 Databases & Query Languages
+### ⚙️ Back-End Development & Languages
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,c,cpp,python" alt="Back-End Development & Languages" />
   </a>
 </div>
 
-### 🧠 AI, Cloud, DevOps & Tools
+### 📱 Mobile App Development
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,aws,git,github,linux" alt="AI & Tools" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile App Development" />
+  </a>
+</div>
+
+### 🤖 Machine Learning & AI
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" alt="Machine Learning & AI" />
+  </a>
+</div>
+
+### 🗄️ Databases & Caching
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" alt="Databases & Caching" />
+  </a>
+</div>
+
+### ☁️ Cloud & BaaS Platforms
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,firebase,supabase" alt="Cloud & BaaS Platforms" />
+  </a>
+</div>
+
+### 🛠️ DevOps & Developer Tools
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux" alt="DevOps & Developer Tools" />
   </a>
 </div>
 
