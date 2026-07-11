@@ -14,8 +14,10 @@
 
 - 🎓 **Computer Science & Engineering Student** continuously exploring cutting-edge technology.
 - 🏆 **Hackathon Enthusiast:** Passionate about building rapid solutions for real-world problems.
-- 🥇 **Achievement:** Won **2nd Place** at the prestigious **Srishti Hackathon, Dharwad**!
-- 🔭 **Interests:** Deeply interested in Full-Stack Web Development, Artificial Intelligence, and Cloud/DevOps.
+- 🥇 **Achievements:**
+  - Won **1st Place** at the **Smart Agro Hackathon** organized by **COMEDK U-KARE**!
+  - Won **2nd Place** at the prestigious **Srishti Hackathon, Dharwad**!
+- 🔭 **Interests:** Deeply interested in Full-Stack Web Development, Artificial Intelligence, IoT & Embedded Systems, and Cloud/DevOps.
 - 🏸 **Hobbies:** When I'm not coding, you can find me playing **Badminton** or trying out new project ideas.
 
 <br>
@@ -73,6 +75,15 @@
   </a>
   <br>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+</div>
+
+### 🔌 IoT & Embedded Systems
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="IoT & Embedded Systems" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 </div>
 
 <br>
