@@ -93,8 +93,41 @@
         <img src="https://skillicons.dev/icons?i=css" height="20" alt="css"/>
       </td>
     </tr>
+    <tr>
+      <td>🏫 <b><a href="https://github.com/Sagarspoojary/University-management-system">University Management System</a></b></td>
+      <td>A comprehensive college/university administration database and management desktop system.</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=java" height="20" alt="java"/>
+      </td>
+    </tr>
+    <tr>
+      <td>📱 <b><a href="https://github.com/Sagarspoojary/Recipto">Recipto</a></b></td>
+      <td>A handy receipt capturing, parsing, and budget management mobile application.</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=dart" height="20" alt="dart"/>
+      </td>
+    </tr>
+    <tr>
+      <td>🧘 <b><a href="https://github.com/Sagarspoojary/StressCare">StressCare</a></b></td>
+      <td>A wellness-tracking mobile application designed to help monitor and manage daily mental health levels.</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=dart" height="20" alt="dart"/>
+      </td>
+    </tr>
+    <tr>
+      <td>🏨 <b><a href="https://github.com/Sagarspoojary/DBMS-PROJECT-HOTEL-MANAGEMENT-SYSTEM-">Hotel Management System</a></b></td>
+      <td>A booking portal and administrative database system for hotels, backed by MySQL.</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=html" height="20" alt="html"/>
+        <img src="https://skillicons.dev/icons?i=css" height="20" alt="css"/>
+        <img src="https://skillicons.dev/icons?i=js" height="20" alt="js"/>
+        <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="mysql"/>
+      </td>
+    </tr>
   </tbody>
 </table>
+
+> 💡 **Looking for more?** I also have several smaller academic projects, coding challenges, script files, and utilities hosted on my [GitHub repositories page](https://github.com/Sagarspoojary?tab=repositories). Feel free to explore!
 
 <br>
 
