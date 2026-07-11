@@ -57,31 +57,40 @@
   </thead>
   <tbody>
     <tr>
-      <td>🤖 <b>NeuroInsight AI</b></td>
-      <td>State-of-the-art computer vision platform designed for real-time object detection and NLP analysis. Built for scale.</td>
+      <td>🛡️ <b><a href="https://github.com/Sagarspoojary/AI-Powered-PII-Detection-and-Masking">AI PII Detection & Masking</a></b></td>
+      <td>Smart security application powered by AI models to identify and dynamically redact personally identifiable information.</td>
       <td>
-        <img src="https://skillicons.dev/icons?i=python" height="20" alt="python"/>
-        <img src="https://skillicons.dev/icons?i=pytorch" height="20" alt="pytorch"/>
-        <img src="https://skillicons.dev/icons?i=docker" height="20" alt="docker"/>
-      </td>
-    </tr>
-    <tr>
-      <td>🌐 <b>Nova Portal</b></td>
-      <td>An ultra-responsive Next.js full-stack web application featuring realtime websocket dashboard synchronization and Redis caching.</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="nextjs"/>
         <img src="https://skillicons.dev/icons?i=ts" height="20" alt="ts"/>
-        <img src="https://skillicons.dev/icons?i=postgres" height="20" alt="postgres"/>
-        <img src="https://skillicons.dev/icons?i=redis" height="20" alt="redis"/>
+        <img src="https://skillicons.dev/icons?i=python" height="20" alt="python"/>
+        <img src="https://skillicons.dev/icons?i=html" height="20" alt="html"/>
+        <img src="https://skillicons.dev/icons?i=css" height="20" alt="css"/>
       </td>
     </tr>
     <tr>
-      <td>🏆 <b>Srishti Hackathon Project</b></td>
-      <td>An innovative prototype solution designed and built under 36 hours, securing 2nd place among competing teams in Dharwad.</td>
+      <td>🧬 <b><a href="https://github.com/Sagarspoojary/AI-Blockchain-Genetic-Health-Twin">Genetic Health Twin</a></b></td>
+      <td>A secure, decentralized medical logging prototype combining blockchain tracking and predictive genomic AI models.</td>
       <td>
+        <img src="https://skillicons.dev/icons?i=js" height="20" alt="js"/>
+        <img src="https://skillicons.dev/icons?i=html" height="20" alt="html"/>
+        <img src="https://skillicons.dev/icons?i=css" height="20" alt="css"/>
+      </td>
+    </tr>
+    <tr>
+      <td>📈 <b><a href="https://github.com/Sagarspoojary/AlgoVision">AlgoVision</a></b></td>
+      <td>An interactive visualization tool mapping data structures and sorting/searching algorithms step-by-step.</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=ts" height="20" alt="ts"/>
         <img src="https://skillicons.dev/icons?i=react" height="20" alt="react"/>
-        <img src="https://skillicons.dev/icons?i=nodejs" height="20" alt="nodejs"/>
-        <img src="https://skillicons.dev/icons?i=mongodb" height="20" alt="mongodb"/>
+        <img src="https://skillicons.dev/icons?i=html" height="20" alt="html"/>
+      </td>
+    </tr>
+    <tr>
+      <td>🏆 <b><a href="https://github.com/Sagarspoojary/CyberShield-Ai">CyberShield-Ai</a></b></td>
+      <td>Machine learning network classifier and intrusion defense mechanism. Developed as part of state-level hackathon work.</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=js" height="20" alt="js"/>
+        <img src="https://skillicons.dev/icons?i=html" height="20" alt="html"/>
+        <img src="https://skillicons.dev/icons?i=css" height="20" alt="css"/>
       </td>
     </tr>
   </tbody>
