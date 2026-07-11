@@ -174,7 +174,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagarspoojary&show_icons=true&theme=tokyonight&count_private=true" alt="Sagar's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sagarspoojary&theme=tokyonight" alt="Sagar's GitHub Stats" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=Sagarspoojary&theme=tokyonight" alt="Sagar's GitHub Streak" />
 </div>
 
 <br>
