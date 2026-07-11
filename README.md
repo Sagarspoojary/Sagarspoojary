@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero_banner.jpg" width="100%" alt="Sagar S - Cybernetic Engineer | Innovator"/>
+  <img src="./assets/hero_banner_v2.jpg" width="100%" alt="Sagar S - Cybernetic Engineer | Innovator"/>
 </div>
 
 <br>
