@@ -50,25 +50,29 @@
   </a>
 </div>
 
-### 🗄️ Databases & Caching
+### 🗄️ Databases & Backend-as-a-Service (BaaS)
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" alt="Databases & Caching" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase" alt="Databases & BaaS" />
   </a>
 </div>
 
-### ☁️ Cloud & BaaS Platforms
+### 🔑 Authentication & Security
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase,supabase" alt="Cloud & BaaS Platforms" />
-  </a>
+  <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Auth" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Supabase_Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Auth" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
 </div>
 
-### 🛠️ DevOps & Developer Tools
+### 🛠️ DevOps, Hosting & Tools
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,linux" alt="DevOps & Developer Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,netlify" alt="DevOps, Hosting & Tools" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </div>
 
 <br>
