@@ -22,24 +22,24 @@
 
 <img src="./assets/header_skills.jpg" width="100%" alt="Tech Stack and Skills"/>
 
-### 🚀 Programming Languages & Frameworks
+### 🚀 Programming Languages & Mobile/Web Frameworks
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,dart,c,cpp,html,css,react,nextjs,nodejs,express,flutter" alt="Languages & Frameworks" />
   </a>
 </div>
 
-### 💾 Databases & Systems
+### 💾 Databases & Query Languages
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" alt="Databases" />
   </a>
 </div>
 
-### 🧠 AI, ML & Tools
+### 🧠 AI, Cloud, DevOps & Tools
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,aws,git,github" alt="AI & Tools" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,aws,git,github,linux" alt="AI & Tools" />
   </a>
 </div>
 
