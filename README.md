@@ -15,7 +15,7 @@
 - 🎓 **Computer Science & Engineering Student** continuously exploring cutting-edge technology.
 - 🏆 **Hackathon Enthusiast:** Passionate about building rapid solutions for real-world problems.
 - 🥇 **Achievements:**
-  - Won **1st Place** at the **Smart Agro Hackathon** organized by **COMEDK U-KARE**!
+  - Won **1st Place** at the **Smart Agro Hackathon** organized by **ComdedKares**!
   - Won **2nd Place** at the prestigious **Srishti Hackathon, Dharwad**!
 - 🔭 **Interests:** Deeply interested in Full-Stack Web Development, Artificial Intelligence, IoT & Embedded Systems, and Cloud/DevOps.
 - 🏸 **Hobbies:** When I'm not coding, you can find me playing **Badminton** or trying out new project ideas.
